@@ -1,0 +1,51 @@
+body{
+    margin: 5px;
+}
+.details h2{
+    text-align: center;
+}
+.colorchoise{
+    font-size: 20px;
+    word-spacing: 85px;
+    padding-bottom: px;
+}
+img{
+    position: relative;
+    border: 1px solid rgb(222, 206, 206);
+}
+.col p{
+    font-weight: 500;
+}
+.sizeselect{
+    font-size: 20px;
+    font-weight: 600;
+}
+.btn1{
+    border: none;
+    border-radius: 5px;
+    border: none;
+    margin-right: 25px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.btn1:hover{
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    margin-right: 25px;
+    font-size: 20px;
+}
+.btn2{
+    border: none;
+    font-weight: 600;
+    font-size: 20px;
+}
+.btn2:hover{
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    margin-right: 25px;
+    font-size: 20px;
+}
